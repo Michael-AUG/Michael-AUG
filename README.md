@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Michael-AUG, I live in Scotland and am a Radio Ham (callsign GM5 AUG). 
+- 👋 Hi, I’m @Michael-AUG, I live in Scotland and am a Radio Ham (callsign GM5AUG). 
 - 👀 I’m interested in Amateur Radio, Linux, Bash Scripting and XMLRPC.
 - 🌱 I’m currently learning Bash scripting, QT program designing, and Markdown website design - all alongside my degree studies!
 - 💞️ I’m looking to collaborate on Linux applications for Amateur Radio. I'm also interested in collaborating with Christian coders.
